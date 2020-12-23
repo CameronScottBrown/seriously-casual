@@ -1,0 +1,17 @@
+---
+templateKey: blog-post
+title: FANTASY BASKETBALL – NEW SCENE, SAME LEAN – 2019-2020
+date: 2019-10-16T02:34:27.495Z
+description: Welcome to a new season, a new scene, but dripping in the same lean.
+featuredpost: true
+featuredimage: /img/147db2f6-df7d-4718-b8d6-aea6234a63c6-nba_china_thumb.jpg
+tags:
+  - announcements
+---
+HEY-OH! Welcome to a new season, a new scene, but, as always, dripping in the same lean. We have a fantastic season ahead of us, lucky enough we can watch it, unlike mainland China. JK, they can watch– but only because they’re also not privy as to why they wouldn’t be allowed in the first place, since, you know, the world news is already censored. How do I explain this… It is like if you were given freedom of speech, used it to speak out against dictatorship, then got beat down by your slave-owner. Touchy words there; but if I am not mistaken, despite their salaries, the GM’s and the players are having their freedoms held hostage by the owners and the Chinese Communist Party’s prerogative. This is straight crazy!! ***Yao know what I Ming???*** I should also acknowledge what is going on in Syria, Ecuador, Afghanistan…. Algeria, Iraq, Barcelona……. LeBron trying to protect the players only makes him looks like a money-hungry Trumpian after his insta is drenched in MLK Jr quotes like, ““Injustice anywhere is a threat to justice everywhere. We are caught in an inescapable network of mutuality, tied in a single garment of destiny. Whatever affects one directly, affects all indirectly.”
+
+HEY-OH!.. 2019-2020 basketball season!!.. shit, already tried that transition once… Welp, seems that there is injustice everywhere, and the only way to check privilege is to be aware, be vocal, and be active in objecting oppression. Alright alright, finally, lets talk basketball– *Tik-Tok*, as the countdown to the *NBA* regular season inches ever closer, so too does the cold season, so let’s just be wary of a possible *Blizzard*. Now breakout that *iPhone*, run that *facial recognition*, get your *Rakuten-*sponsored Dubs jersey (that you only paid *Tencent* for!) and sit down to relax with some unadulterated basketball.
+
+A smaller league this year means more fluidity on the waiver wire. Holding on to sub par players is a thing of the past, as you will find day-to-day pickup opportunities not afforded to you last season. Dwayne Dedmon, Cleveland’s starting backcourt, Elfrid “Gerald from Hey, Arndold!” Payton, and Eric “No Relation To Me” Gordon are all available in free agency. Injuries, rookies, and trades– all factors that will muddle the player pool as the season progresses. For now, we look to Steph as our #1 draft pick to set the pace in his new digs. Speaking of new digs, AD and his full-time team of doctors look to avoid sprained ankles to validate his #2 draft position. Big movers in the draft like DeAndre Ayton, Julius Randle, Pascal Siakam, and Bradley Beal are set to make fantastical impacts for their respective teams, but the magnificent mainstays like KAT, LBJ, Joker, and Greek Freek are sure to drop the hammer with some monster double-doubles.
+
+One week from today we kick off; so knock on some wood, throw some salt over your shoulder, and for god’s sake wash your undies– because preseason injuries can bunch anyone’s britches. Let’s set our lineups, pay Oscar the league dues, and enjoy some good old fashion **籃球**.
