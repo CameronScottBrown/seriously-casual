@@ -1,33 +1,18 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
+title: FANTASY BASKETBALL – NEW SCENE, SAME LEAN – 2019-2020
+date: 2019-10-15T14:04:10.000Z
+description: The Coffee Taster’s Flavor Wheel, the official resource used by
+  coffee tasters, has been revised for the first time this year.
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+featuredimage: /img/147db2f6-df7d-4718-b8d6-aea6234a63c6-nba_china_thumb.jpg
 tags:
-  - flavor
-  - tasting
+  - announcements
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+HEY-OH! Welcome to a new season, a new scene, but, as always, dripping in the same lean. We have a fantastic season ahead of us, lucky enough we can watch it, unlike mainland China. JK, they can watch– but only because they’re also not privy as to why they wouldn’t be allowed in the first place, since, you know, the world news is already censored. How do I explain this… It is like if you were given freedom of speech, used it to speak out against dictatorship, then got beat down by your slave-owner. Touchy words there; but if I am not mistaken, despite their salaries, the GM’s and the players are having their freedoms held hostage by the owners and the Chinese Communist Party’s prerogative. This is straight crazy!! ***Yao know what I Ming???*** I should also acknowledge what is going on in Syria, Ecuador, Afghanistan…. Algeria, Iraq, Barcelona……. LeBron trying to protect the players only makes him looks like a money-hungry Trumpian after his insta is drenched in MLK Jr quotes like, ““Injustice anywhere is a threat to justice everywhere. We are caught in an inescapable network of mutuality, tied in a single garment of destiny. Whatever affects one directly, affects all indirectly.”
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+HEY-OH!.. 2019-2020 basketball season!!.. shit, already tried that transition once… Welp, seems that there is injustice everywhere, and the only way to check privilege is to be aware, be vocal, and be active in objecting oppression. Alright alright, finally, lets talk basketball– *Tik-Tok*, as the countdown to the *NBA* regular season inches ever closer, so too does the cold season, so let’s just be wary of a possible *Blizzard*. Now breakout that *iPhone*, run that *facial recognition*, get your *Rakuten-*sponsored Dubs jersey (that you only paid *Tencent* for!) and sit down to relax with some unadulterated basketball.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+A smaller league this year means more fluidity on the waiver wire. Holding on to sub par players is a thing of the past, as you will find day-to-day pickup opportunities not afforded to you last season. Dwayne Dedmon, Cleveland’s starting backcourt, Elfrid “Gerald from Hey, Arndold!” Payton, and Eric “No Relation To Me” Gordon are all available in free agency. Injuries, rookies, and trades– all factors that will muddle the player pool as the season progresses. For now, we look to Steph as our #1 draft pick to set the pace in his new digs. Speaking of new digs, AD and his full-time team of doctors look to avoid sprained ankles to validate his #2 draft position. Big movers in the draft like DeAndre Ayton, Julius Randle, Pascal Siakam, and Bradley Beal are set to make fantastical impacts for their respective teams, but the magnificent mainstays like KAT, LBJ, Joker, and Greek Freek are sure to drop the hammer with some monster double-doubles.
 
-## What the updates mean to you
-
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
-
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
-
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
-
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+One week from today we kick off; so knock on some wood, throw some salt over your shoulder, and for god’s sake wash your undies– because preseason injuries can bunch anyone’s britches. Let’s set our lineups, pay Oscar the league dues, and enjoy some good old fashion **籃球.**
